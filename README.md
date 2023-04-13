@@ -69,3 +69,15 @@ response = requests.post(
 ```
 
 --- that seems like all what we need for this part, of course all these repos and pieces of code will be in go and in one unified backend...
+
+
+
+resources
+
+https://github.com/previousnext/go-deploy-status
+
+
+https://www.tech-otaku.com/web-development/using-cloudflare-api-manage-dns-records/
+
+
+https://github.com/Konboi/ghooks
